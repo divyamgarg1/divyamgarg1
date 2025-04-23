@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/100000000?v=4" alt="Divyam Garg" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <h2 align="center">Hi, I'm Divyam Garg 👋</h2>
 <p align="center">Cloud Engineer Intern | B.Tech CSE @ UPES | Full-Stack & AWS Enthusiast</p>
