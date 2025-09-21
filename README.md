@@ -33,7 +33,7 @@
 🤖 AI-powered chatbot using **LangChain + Pinecone + Groq LLMs** for medical query assistance.  
 🛠️ Stack: **Python, Flask, Docker, AWS EC2/ECR, GitHub Actions**  
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1/Medical-Chatbot-using-RAG)  
 
 ---
 
@@ -41,7 +41,7 @@
 📊 A **cloud platform** for researchers to manage and visualize wildlife data securely.  
 🛠️ Stack: **React.js, Node.js, MySQL, AWS (EC2, RDS, S3), Chart.js**  
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1/Wildlife_final)  
 
 ---
 
@@ -57,7 +57,7 @@
 ⚡ Real-time monitoring dashboard for servers deployed on Kubernetes.  
 🛠️ Stack: **Python, Flask, psutil, Docker, Kubernetes**  
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1/System-Monitoring-Dashboard)  
 
 ---
 
@@ -65,7 +65,7 @@
 ⚡ A portal for **students & wardens** to manage hostel operations.  
 🛠️ Stack: **Java, Spring Boot, MySQL**  
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/divyamgarg1/Hostel-Management-System)  
 
 ---
 
